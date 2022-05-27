@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653648556 source:e:\algoritmi avansati\poooo8\main.cpp
+	<bits/stdc++.h>
+	"Multime.h"
+
+1653648748 e:\algoritmi avansati\poooo8\multime.h
+	<iostream>
+
+1653648845 source:e:\algoritmi avansati\poooo8\multime.cpp
+	"Multime.h"
+	<bits/stdc++.h>
+
